@@ -1,15 +1,20 @@
 body{
-    background-color: #e791dc;
-    color: white;
+    background-color: #F0EDCF;
+    color: #000000;
     margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+main{
+    padding: 10px;
+}
 header{
-    color: rgb(255, 105, 68);
+    color: white;
     padding: 10px;
     display: flex;
     flex-direction: column;
-    background-color: bisque;
+    background-color: #0B60B0;
     width: 100%;
 }
 
@@ -26,9 +31,9 @@ header{
 }
 nav a {
     text-decoration: none;
-    color: rgb(241, 175, 50);
+    color: #F0EDCF;
   }
 
 nav a:hover{
-    color: rgb(123, 255, 35);
+    color: #40A2D8;
 }
