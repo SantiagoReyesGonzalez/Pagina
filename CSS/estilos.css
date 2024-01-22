@@ -7,13 +7,13 @@ body{
 }
 
 main{
-    padding: 10px;
+    padding-left: 40px;
 }
 header{
     color: white;
     padding: 10px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #0B60B0;
     width: 100%;
 }
@@ -36,4 +36,10 @@ nav a {
 
 nav a:hover{
     color: #40A2D8;
+}
+
+#logo-principal{
+    width: 60px;
+    margin-right: 30px;
+    margin-left: 40px;
 }
