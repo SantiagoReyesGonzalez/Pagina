@@ -37,3 +37,13 @@ nav a {
 nav a:hover{
     color: #40A2D8;
 }
+
+footer{
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #0B60B0;
+    width: 100%;
+    text-align: center;
+}
