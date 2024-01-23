@@ -7,7 +7,7 @@ Bienvenido a **PlatziGit**, la plataforma dedicada a explorar y compartir experi
 ## Acerca de PlatziGit
 PlatziGit nace de la pasión por el desarrollo y el aprendizaje continuo. Esta plataforma tiene como objetivo principal:
 
--** Documentar Aprendizajes**: Detalla tus experiencias de aprendizaje en Platzi relacionadas con Git. Desde los conceptos básicos hasta técnicas avanzadas, PlatziGit es tu diario de desarrollo.
+- **Documentar Aprendizajes**: Detalla tus experiencias de aprendizaje en Platzi relacionadas con Git. Desde los conceptos básicos hasta técnicas avanzadas, PlatziGit es tu diario de desarrollo.
 
 - **Compartir Prácticas:** Comparte tus proyectos y ejercicios realizados en los cursos de Platzi. Muestra cómo aplicas tus conocimientos de Git en situaciones del mundo real.
 
